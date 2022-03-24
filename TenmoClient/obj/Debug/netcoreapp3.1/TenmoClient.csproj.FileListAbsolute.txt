@@ -1,0 +1,16 @@
+C:\Users\Student\workspace\mod-2-capstone-orange-team-7\capstone\TenmoClient\bin\Debug\netcoreapp3.1\TenmoClient.exe
+C:\Users\Student\workspace\mod-2-capstone-orange-team-7\capstone\TenmoClient\bin\Debug\netcoreapp3.1\TenmoClient.deps.json
+C:\Users\Student\workspace\mod-2-capstone-orange-team-7\capstone\TenmoClient\bin\Debug\netcoreapp3.1\TenmoClient.runtimeconfig.json
+C:\Users\Student\workspace\mod-2-capstone-orange-team-7\capstone\TenmoClient\bin\Debug\netcoreapp3.1\TenmoClient.runtimeconfig.dev.json
+C:\Users\Student\workspace\mod-2-capstone-orange-team-7\capstone\TenmoClient\bin\Debug\netcoreapp3.1\TenmoClient.dll
+C:\Users\Student\workspace\mod-2-capstone-orange-team-7\capstone\TenmoClient\bin\Debug\netcoreapp3.1\TenmoClient.pdb
+C:\Users\Student\workspace\mod-2-capstone-orange-team-7\capstone\TenmoClient\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Student\workspace\mod-2-capstone-orange-team-7\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.csproj.AssemblyReference.cache
+C:\Users\Student\workspace\mod-2-capstone-orange-team-7\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\mod-2-capstone-orange-team-7\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\mod-2-capstone-orange-team-7\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.AssemblyInfo.cs
+C:\Users\Student\workspace\mod-2-capstone-orange-team-7\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\mod-2-capstone-orange-team-7\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.csproj.CopyComplete
+C:\Users\Student\workspace\mod-2-capstone-orange-team-7\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.dll
+C:\Users\Student\workspace\mod-2-capstone-orange-team-7\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.pdb
+C:\Users\Student\workspace\mod-2-capstone-orange-team-7\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.genruntimeconfig.cache
